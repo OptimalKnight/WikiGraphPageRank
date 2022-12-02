@@ -1,0 +1,12 @@
+Total number of iterations: 1000000
+
+Rank 1: the new york times
+Rank 2: world war ii
+Rank 3: soviet union
+Rank 4: european union
+Rank 5: latin
+Rank 6: united nations
+Rank 7: london
+Rank 8: christianity
+Rank 9: united kingdom
+Rank 10: roman empire

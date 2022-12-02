@@ -1,0 +1,101 @@
+Total number of iterations: 100000000
+
+Rank 1: wikipedia
+Rank 2: united states
+Rank 3: the new york times
+Rank 4: united kingdom
+Rank 5: world war ii
+Rank 6: france
+Rank 7: new york city
+Rank 8: race and ethnicity in the united states census
+Rank 9: england
+Rank 10: dependent territory
+Rank 11: list of former sovereign states
+Rank 12: germany
+Rank 13: scientific method
+Rank 14: u.s. state
+Rank 15: the guardian
+Rank 16: india
+Rank 17: catholic church
+Rank 18: london
+Rank 19: united states census bureau
+Rank 20: english language
+Rank 21: canada
+Rank 22: italy
+Rank 23: world war i
+Rank 24: australia
+Rank 25: washington, d.c.
+Rank 26: the washington post
+Rank 27: europe
+Rank 28: california
+Rank 29: china
+Rank 30: oxford university press
+Rank 31: mediawiki
+Rank 32: japan
+Rank 33: spain
+Rank 34: list of sovereign states
+Rank 35: soviet union
+Rank 36: latin
+Rank 37: democratic party (united states)
+Rank 38: russia
+Rank 39: scotland
+Rank 40: employment
+Rank 41: new york (state)
+Rank 42: european union
+Rank 43: paris
+Rank 44: netherlands
+Rank 45: republican party (united states)
+Rank 46: north america
+Rank 47: administrative division
+Rank 48: christianity
+Rank 49: bbc
+Rank 50: homo (genus)
+Rank 51: intelligence (trait)
+Rank 52: list of academic disciplines
+Rank 53: cambridge university press
+Rank 54: outline of academic disciplines
+Rank 55: homo
+Rank 56: bbc news
+Rank 57: los angeles times
+Rank 58: renaissance
+Rank 59: intelligence
+Rank 60: wikimedia foundation
+Rank 61: united nations
+Rank 62: earth's atmosphere
+Rank 63: sweden
+Rank 64: french language
+Rank 65: switzerland
+Rank 66: earth
+Rank 67: applied science
+Rank 68: the wall street journal
+Rank 69: atmosphere of earth
+Rank 70: youtube
+Rank 71: mexico
+Rank 72: harvard university
+Rank 73: help:category
+Rank 74: brazil
+Rank 75: poland
+Rank 76: los angeles
+Rank 77: norway
+Rank 78: fifa
+Rank 79: chicago
+Rank 80: time (magazine)
+Rank 81: communes of france
+Rank 82: turkey
+Rank 83: new zealand
+Rank 84: nature
+Rank 85: associated press
+Rank 86: ottoman empire
+Rank 87: albert einstein
+Rank 88: rome
+Rank 89: iran
+Rank 90: ontario
+Rank 91: south africa
+Rank 92: islam
+Rank 93: köppen climate classification
+Rank 94: philippines
+Rank 95: unesco
+Rank 96: billboard (magazine)
+Rank 97: american civil war
+Rank 98: belgium
+Rank 99: asia

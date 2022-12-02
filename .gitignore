@@ -1,0 +1,9 @@
+# given bz2 file
+/data/bz2/enwiki-latest-pages-articles.xml.bz2
+# 1/100th sample of the given bz2 file
+/data/bz2/enwiki-latest-pages-articles.xml-sample.bz2
+
+# file containing the mapping between the wiki-page ids and wiki-page titles
+/data/txt/wikiPageIDs.txt
+# file containing adjacency list of the complete wiki-graph
+/data/txt/adjacencyList.txt
